@@ -271,12 +271,12 @@ a:hover {
   animation-delay: 0.6s;
 }
 
-/*.main li:hover .menu6 li:last-of-type {
+.main li:hover .menu6 li:last-of-type {
   animation: menu6 0.3s ease-in-out forwards;
   animation-delay: 0.8s;
 }
 
-@keyframes menu6 {
+/*@keyframes menu6 {
   0% {
     opacity: 0;
     transform: scale(2);
