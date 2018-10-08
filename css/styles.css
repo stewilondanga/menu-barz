@@ -55,10 +55,11 @@ nav {
   margin: 0 2%;
 }
 
-/*.main > li a{
-  border-left:1px solid rgba(23, 23, 50, 1);
+.main>li a {
+  border-left: 1px solid rgba(23, 23, 50, 1);
 }
-a {
+
+/*a {
   text-decoration: none;
   color: #ffe;
   text-transform: capitalize;
