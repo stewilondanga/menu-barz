@@ -276,7 +276,7 @@ a:hover {
   animation-delay: 0.8s;
 }
 
-/*@keyframes menu6 {
+@keyframes menu6 {
   0% {
     opacity: 0;
     transform: scale(2);
