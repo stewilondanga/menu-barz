@@ -38,14 +38,15 @@ ul {
   list-style: none;
 }
 
-/*nav {
+nav {
   height: 40px;
   margin: 40px auto;
   background-color: rgba(23, 23, 50, 0.7);
   text-align: center;
   border-radius: 4px;
 }
-.main {
+
+/*.main {
   display: flex;
   justify-content: center;
 }
