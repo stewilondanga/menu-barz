@@ -289,7 +289,7 @@ a:hover {
 
 /* my button style */
 
-/*.white-mode {
+.white-mode {
   text-decoration: none;
   padding: 7px 10px;
   background-color: #122;
@@ -302,7 +302,7 @@ a:hover {
   font-family: sans-serif;
 }
 
-.white-mode:hover {
+/*.white-mode:hover {
   background-color: #fff;
   color: #122;
 }
