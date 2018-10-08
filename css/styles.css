@@ -223,13 +223,12 @@ a:hover {
 
 /*------------- menu5 animation -------------------*/
 
-/*
 .main li:hover .menu5 li:first-of-type {
   animation: menu5 0.3s ease-in-out forwards;
   animation-delay: 0.3s;
 }
 
-.main li:hover .menu5 li:nth-of-type(2) {
+/*.main li:hover .menu5 li:nth-of-type(2) {
   animation: menu5 0.3s ease-in-out forwards;
   animation-delay: 0.6s;
 }
