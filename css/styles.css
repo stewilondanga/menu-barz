@@ -59,7 +59,7 @@ nav {
   border-left: 1px solid rgba(23, 23, 50, 1);
 }
 
-/*a {
+a {
   text-decoration: none;
   color: #ffe;
   text-transform: capitalize;
@@ -68,11 +68,10 @@ nav {
   padding: 10px 15px;
   font-size: 16px;
   transition: background-color 0.5s ease-in-out;
-
   font-family: "Raleway", sans-serif;
 }
 
-a:hover {
+/*a:hover {
   background-color: #631818;
 }
 
