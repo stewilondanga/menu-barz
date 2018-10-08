@@ -135,12 +135,12 @@ a:hover {
   animation-delay: 0.9s;
 }
 
-/*.main li:hover .menu2 li:last-of-type {
+.main li:hover .menu2 li:last-of-type {
   animation: menu2 0.3s ease-in-out forwards;
   animation-delay: 1.2s;
 }
 
-@keyframes menu2 {
+/*@keyframes menu2 {
   0% {
     opacity: 0;
     transform: scale(0.7);
