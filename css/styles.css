@@ -13,12 +13,13 @@ body {
   letter-spacing: 1px;
 }
 
-/*
 .my_social {
   position: absolute;
   top: 25px;
   left: 25px;
 }
+
+/*
 
 .my_social a {
   display: inline-block;
