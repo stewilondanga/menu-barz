@@ -140,7 +140,7 @@ a:hover {
   animation-delay: 1.2s;
 }
 
-/*@keyframes menu2 {
+@keyframes menu2 {
   0% {
     opacity: 0;
     transform: scale(0.7);
