@@ -107,7 +107,7 @@ a:hover {
   animation-delay: 1.2s;
 }
 
-/*@keyframes menu1 {
+@keyframes menu1 {
   from {
     opacity: 0;
     transform: translateX(30px) rotateY(90deg);
