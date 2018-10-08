@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #1e1e1e;
+  background-image: url(https://static.pexels.com/photos/8395/lights-night-unsharp-blured.jpg);
+  background-size: cover;
+  height: 100vh;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,16 +36,6 @@
   height: 1.5em;
 }
 
-
-body {
-  background-color: #1e1e1e;
-  background-image: url(https://static.pexels.com/photos/8395/lights-night-unsharp-blured.jpg);
-  background-size: cover;
-  height: 100vh;
-
-  font-family: "Raleway", sans-serif;
-  letter-spacing: 1px;
-}
 h1 {
   text-align: center;
   color: #fff;
