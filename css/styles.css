@@ -162,12 +162,12 @@ a:hover {
   animation-delay: 0.3s;
 }
 
-/*.main li:hover .menu3 li:nth-of-type(2) {
+.main li:hover .menu3 li:nth-of-type(2) {
   animation: menu3 0.3s ease-in-out forwards;
   animation-delay: 0.6s;
 }
 
-.main li:hover .menu3 li:nth-of-type(3) {
+/*.main li:hover .menu3 li:nth-of-type(3) {
   animation: menu3 0.3s ease-in-out forwards;
   animation-delay: 0.9s;
 }
