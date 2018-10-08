@@ -102,12 +102,12 @@ a:hover {
   animation-delay: 0.9s;
 }
 
-/*.main li:hover .menu1 li:last-of-type {
+.main li:hover .menu1 li:last-of-type {
   animation: menu1 0.3s ease-in-out forwards;
   animation-delay: 1.2s;
 }
 
-@keyframes menu1 {
+/*@keyframes menu1 {
   from {
     opacity: 0;
     transform: translateX(30px) rotateY(90deg);
