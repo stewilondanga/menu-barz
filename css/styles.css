@@ -80,7 +80,7 @@ a:hover {
   transform-origin: top center;
 }
 
-/*.drop li a {
+.drop li a {
   background-color: rgba(23, 23, 50, 0.7);
   padding: 10px 0;
 }
