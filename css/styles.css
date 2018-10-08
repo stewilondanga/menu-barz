@@ -302,12 +302,12 @@ a:hover {
   font-family: sans-serif;
 }
 
-/*.white-mode:hover {
+.white-mode:hover {
   background-color: #fff;
   color: #122;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
