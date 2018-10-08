@@ -238,12 +238,12 @@ a:hover {
   animation-delay: 0.9s;
 }
 
-/*.main li:hover .menu5 li:last-of-type {
+.main li:hover .menu5 li:last-of-type {
   animation: menu5 0.3s ease-in-out forwards;
   animation-delay: 1.2s;
 }
 
-@keyframes menu5 {
+/*@keyframes menu5 {
   0% {
     opacity: 0;
     transform: rotateX(-90deg);
