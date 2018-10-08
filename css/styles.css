@@ -71,11 +71,11 @@ a {
   font-family: "Raleway", sans-serif;
 }
 
-/*a:hover {
+a:hover {
   background-color: #631818;
 }
 
-.drop li {
+/*.drop li {
   opacity: 0;
   transform-origin: top center;
 }
